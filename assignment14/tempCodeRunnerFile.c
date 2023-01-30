@@ -1,0 +1,1 @@
+printf(" greatest number is %d",max);
